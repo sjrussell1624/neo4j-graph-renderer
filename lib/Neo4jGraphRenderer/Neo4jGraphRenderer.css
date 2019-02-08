@@ -46,6 +46,12 @@ marker {
     cursor:pointer
 }
 
+.status {
+    width: 500px;
+    height: 500px;
+    border: #3498db;
+}
+
 svg {
     width:100%;
     height:calc(100vh - 250px);
